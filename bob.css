@@ -1,0 +1,49 @@
+h1{
+    color: #F33D0D;
+
+}
+div{
+  background-color: aliceblue;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+}
+audio{
+  margin-right: 300px;
+    margin-left: 300px;
+}
+p{
+  margin-right: 300px;
+  margin-left: 300px;
+  font-size: 20px; 
+  block-size: 20px;
+  color: blanchedalmond
+}
+a{
+    color: rebeccapurple ;
+}
+
+img{
+    height: 300px;
+    width: 50%;
+  }
+  img {
+   
+    margin-right: 300px;
+    margin-left: 300px;
+  }
+ a {
+   
+    margin-right: 300px;
+    margin-left: 300px;
+  }
+  h1 {
+   font-size: 50px;
+    margin-right: 300px;
+    margin-left: 300px;
+  }
+h2{
+  font-size: 40px;
+   margin-right: 300px;
+   margin-left: 300px;
+ }
